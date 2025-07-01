@@ -30,6 +30,6 @@ In conclusion, the project significantly enhanced my practical knowledge of data
 
 *OUTPUT* :
 
-<img width="464" alt="Image" src="https://github.com/user-attachments/assets/37359f8a-ec57-4f66-ae42-884cf0982286" />
+<img width="391" alt="Image" src="https://github.com/user-attachments/assets/642e064f-7b37-41c3-bfec-836e9a1e99e0" />
 
-<img width="645" alt="Image" src="https://github.com/user-attachments/assets/c223d305-6916-4f75-b1ca-13208022b42a" />
+<img width="617" alt="Image" src="https://github.com/user-attachments/assets/59cddd1f-8ebe-403f-9e78-d9b7ac0f3f5b" />
