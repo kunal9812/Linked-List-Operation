@@ -29,3 +29,7 @@ The final outcome was a reliable, efficient, and interactive C program capable o
 In conclusion, the project significantly enhanced my practical knowledge of data structures, improved my debugging and coding efficiency, and introduced me to helpful AI tools that assist in development. This experience has made me more confident in handling complex programming challenges and laid the groundwork for future projects involving more advanced data structures.
 
 *OUTPUT* :
+
+<img width="464" alt="Image" src="https://github.com/user-attachments/assets/37359f8a-ec57-4f66-ae42-884cf0982286" />
+
+<img width="645" alt="Image" src="https://github.com/user-attachments/assets/c223d305-6916-4f75-b1ca-13208022b42a" />
